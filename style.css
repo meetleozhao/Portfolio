@@ -9,11 +9,11 @@
 
 /* Base */
 body {
-  font-family: system-ui, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.6;
-  color: #222;
-  background: #fff;
+  color: #1d1d1f;
+  background-color: #f5f5f7 !important;
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem 1.5rem;
